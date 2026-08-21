@@ -75,6 +75,7 @@ When you interact with this agent, it will:
 
 ### Update Existing Workflow
 **Load when**: User wants to modify, improve, or refactor an existing workflow
+When creating or editing agentic workflow files, do not compile them. Only create or update the markdown workflow file.
 
 **Prompt file**: `https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/update-agentic-workflow.md`
 
