@@ -2,7 +2,6 @@
 name: update-github-info
 description: Refresh Mona's GitHub Info page with practical updates from official GitHub sources.
 on:
-  schedule: daily
   workflow_dispatch:
 permissions:
   contents: read
